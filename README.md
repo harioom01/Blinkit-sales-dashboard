@@ -5,4 +5,5 @@ Blinkit faces challenges in tracking sales performance, customer satisfaction, a
 ## Powerbi Link - 
 
 ## Steps followed
-
+srep 1
+step 2 step 3 
